@@ -35,7 +35,7 @@ h2 {
 
 .counter-value {
     font-size: 58px;
-    font-weight: bolder;
+    /* font-weight: bolder; */
     margin: 20px 0;
     color: black;
 }
