@@ -1,5 +1,5 @@
 import React from 'react';
-import CounterApp from './Components/CounterApp ';
+import CounterApp from './Intent/CounterApp ';
 
 const App = () => {
   return (

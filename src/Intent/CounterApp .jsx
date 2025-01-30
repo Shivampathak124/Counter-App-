@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-
-import "./Counter.css";
+import "../Veiw/Counter.css";
 
 const CounterApp = () => {
   const [count, setCount] = useState(0);
