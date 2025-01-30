@@ -1,10 +1,11 @@
-import React from 'react';
-import CounterApp from './Intent/CounterApp ';
+import React from "react";
+import CounterView from "./views/CounterView";
 
-const App = () => {
+
+function App() {
   return (
     <div>
-      <CounterApp/>
+      <CounterView />
     </div>
   );
 }
